@@ -1,4 +1,8 @@
-# Khronikle
+<p align="center">
+<picture>
+   <img src="public/KKicon.jpg" alt="Khronikle Logo" width="50%"> 
+</picture>
+</p>
 
 Khronicle is a learning-driven project that implements key ideas behind *Apache Kafka*, a distributed event streaming platform.
 
