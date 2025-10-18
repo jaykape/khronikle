@@ -1,4 +1,4 @@
-# khronikle
+# Khronikle
 
 Khronicle is a learning-driven project that implements key ideas behind *Apache Kafka*, a distributed event streaming platform.
 
@@ -14,6 +14,6 @@ While Kafka is written in Java and Scala, I choose to building Khronikle from sc
 
 ---
 
-* “Khronikle” = Chronicle (a written record of historical events) + Kafka
+Chronicle = A written record of historical events. — Cambridge dictionary
 
 ---
