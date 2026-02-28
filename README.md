@@ -14,10 +14,10 @@ This project isn’t meant to replace Kafka. It’s a hands on exploration of th
 
 - Sequential consistency and offsets
 
-While Kafka is written in Java and Scala, I choose to building Khronikle from scratch in Go.
+While Kafka is written in Java and Scala, I choose to building Khronikle from scratch in Python.
 
 ---
 
-Chronicle = A written record of historical events. — Cambridge dictionary
+Chronicle = A written record of historical events.
 
 ---
